@@ -10,8 +10,6 @@ spec:
     image:
       - /images/hero-preview.png
     gallery:
-      text:
-        - Some text
       image:
         - /images/hero-preview.png
 
