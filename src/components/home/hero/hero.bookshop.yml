@@ -9,6 +9,8 @@ spec:
   picker_preview:
     image:
       - /images/hero-preview.png
+    text:
+      - Hero
     gallery:
       image:
         - /images/hero-preview.png
