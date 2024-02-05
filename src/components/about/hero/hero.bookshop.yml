@@ -9,8 +9,8 @@ spec:
   preview:
     gallery:
       image: /images/hero-preview.png
-    text: Hero
-    subtext: About Hero
+    text: About Hero
+    subtext: About Hero section
     icon: apps
 
 # Defines the structure of this component, as well as the default values
