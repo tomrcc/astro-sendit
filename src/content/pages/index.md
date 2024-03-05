@@ -11,10 +11,11 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: home/hero
-    title: Beautiful email campaigns staging
+    title: Beautiful email campaigns
     description: >-
       With Sendit, you can quickly create beautiful rich emails that capture a
-      reader's attention, engage them, and convert them into customers.
+      reader's attention, engage them, and convert them into customers. how
+      about this?
     image: /images/hero/hero-image-2.png
     image_alt: Reports dashboard
     button:
