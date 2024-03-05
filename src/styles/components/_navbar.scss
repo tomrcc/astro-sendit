@@ -30,7 +30,20 @@
   // Navbar button position fixing
   .nav-item {
     list-style: none;
+
+    &:after {
+      content: "\f111";
+      font-family: FontAwesome;
+      font-size: 1.4rem;
+      font-style: normal;
+      font-weight: normal;
+      text-decoration: inherit;
+      border-top: none;
+      padding: $base-padding * 0;
+      margin-right: 0 !important;
+    }
   }
+  
 }
 @include media-breakpoint-down-lg {
   .navbar {
@@ -113,7 +126,7 @@
     }
     &-toggle {
       &:after {
-        content: "\f107";
+        content: "\f109";
         font-family: FontAwesome;
         font-size: 1.4rem;
         font-style: normal;
